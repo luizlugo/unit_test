@@ -1,0 +1,14 @@
+com/techyourchance/unittestingfundamentals/example3/Interval.java
+ com.techyourchance.unittestingfundamentals.example3.Interval
+com/techyourchance/unittestingfundamentals/exercise1/NegativeNumberValidator.java
+ com.techyourchance.unittestingfundamentals.exercise1.NegativeNumberValidator
+com/techyourchance/unittestingfundamentals/example2/StringReverser.java
+ com.techyourchance.unittestingfundamentals.example2.StringReverser
+com/techyourchance/unittestingfundamentals/example1/PositiveNumberValidator.java
+ com.techyourchance.unittestingfundamentals.example1.PositiveNumberValidator
+com/techyourchance/unittestingfundamentals/example3/IntervalsOverlapDetector.java
+ com.techyourchance.unittestingfundamentals.example3.IntervalsOverlapDetector
+com/techyourchance/unittestingfundamentals/exercise2/StringDuplicator.java
+ com.techyourchance.unittestingfundamentals.exercise2.StringDuplicator
+com/techyourchance/unittestingfundamentals/exercise3/IntervalsAdjacencyDetector.java
+ com.techyourchance.unittestingfundamentals.exercise3.IntervalsAdjacencyDetector
