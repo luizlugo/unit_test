@@ -22,9 +22,8 @@ com/techyourchance/testdoublesfundamentals/exercise4/users/UsersCache.java
  com.techyourchance.testdoublesfundamentals.exercise4.users.UsersCache
 com/techyourchance/testdoublesfundamentals/example4/authtoken/AuthTokenCache.java
  com.techyourchance.testdoublesfundamentals.example4.authtoken.AuthTokenCache
-com/techyourchance/testdoublesfundamentals/exercise4/FetchUserProfileUseCaseSync.java
- com.techyourchance.testdoublesfundamentals.exercise4.FetchUserProfileUseCaseSync
- com.techyourchance.testdoublesfundamentals.exercise4.FetchUserProfileUseCaseSync$UseCaseResult
+com/techyourchance/testdoublesfundamentals/exercise4/users/User.java
+ com.techyourchance.testdoublesfundamentals.exercise4.users.User
 com/techyourchance/testdoublesfundamentals/example4/networking/NetworkErrorException.java
  com.techyourchance.testdoublesfundamentals.example4.networking.NetworkErrorException
 com/techyourchance/testdoublesfundamentals/example6/Counter.java
@@ -32,5 +31,6 @@ com/techyourchance/testdoublesfundamentals/example6/Counter.java
 com/techyourchance/testdoublesfundamentals/example4/LoginUseCaseSync.java
  com.techyourchance.testdoublesfundamentals.example4.LoginUseCaseSync
  com.techyourchance.testdoublesfundamentals.example4.LoginUseCaseSync$UseCaseResult
-com/techyourchance/testdoublesfundamentals/exercise4/users/User.java
- com.techyourchance.testdoublesfundamentals.exercise4.users.User
+com/techyourchance/testdoublesfundamentals/exercise4/FetchUserProfileUseCaseSync.java
+ com.techyourchance.testdoublesfundamentals.exercise4.FetchUserProfileUseCaseSync
+ com.techyourchance.testdoublesfundamentals.exercise4.FetchUserProfileUseCaseSync$UseCaseResult
